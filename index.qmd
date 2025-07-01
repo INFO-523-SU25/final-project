@@ -1,10 +1,10 @@
 ---
 title: "Project Title"
-subtitle: "INFO 523 - Project Final"
+subtitle: "INFO 523 - Final Project"
 author: 
   - name: "Team name - Team member 1, Team member 2,..."
     affiliations:
-      - name: "School of Information, University of Arizona"
+      - name: "College of Information Science, University of Arizona"
 description: "Project description"
 format:
    html:
